@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Development, Cyber Security and Ethical Hacking.
 - 🌱 I’m currently learning Cyber security
 - 💞️ I’m looking to collaborate on Any web and Mobile development related projects
-- 📫 How to reach me instagram handle is @Tafarathedev , facebook is TheDev Tafara whatsapp +8618904017785
+- 📫 How to reach me instagram handle is @Tafarathedev , facebook is TheDev Tafara whatsapp +260777379204
 
 <!---
 tafarathedev/tafarathedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
